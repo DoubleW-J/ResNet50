@@ -5,7 +5,7 @@
 | :---: | :---: | :---: | :---: |
 | MNIST-train | resnet50_mnist.pth | MNIST-test | 99.64% |
 
-# 所需环境
+# 所需环境 
 torch==1.7.1
 # 文件下载
 ## a.模型文件下载
